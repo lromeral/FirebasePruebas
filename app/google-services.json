@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492823737127",
+    "firebase_url": "https://fir-pruebas-47141.firebaseio.com",
+    "project_id": "fir-pruebas-47141",
+    "storage_bucket": "fir-pruebas-47141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492823737127:android:e7930b492a08412f",
+        "android_client_info": {
+          "package_name": "com.foromtb.luroga.firebasepruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492823737127-v4a7udaqu1ba47kqmuva66phsh50h77b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foromtb.luroga.firebasepruebas",
+            "certificate_hash": "e7bf491e43d135df72fd2f09242fd1b4b29141c3"
+          }
+        },
+        {
+          "client_id": "492823737127-9m0e0a9jfgj1qsu0sdmrucji97s2r8di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxuhWqbYbvZcaslICCo27lUYLKjdbuYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492823737127-9m0e0a9jfgj1qsu0sdmrucji97s2r8di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
